@@ -12,6 +12,8 @@ import com.spring.jdbc.spring.jdbc.entities.Student;
 
 public class App {
 	public static void main(String[] args) {
+		int j=0;
+		int i=10;
 		System.out.println("+++++++SPRING JDBC STARTED++++++");
 		/*
 		 * ApplicationContext con = new
